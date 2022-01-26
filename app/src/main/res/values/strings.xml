@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SWAPI API</string>
+    <string name="launch"> Launch </string>
+    <string name="clear"> Clear </string>
+    <string name="error_message">Se ha encontrado un error, íntentelo de nuevo!</string>
+    <string name="search_pressed">¡Comienza la búsqueda del repositorio!</string>
+</resources>
